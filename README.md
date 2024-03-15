@@ -1,4 +1,4 @@
-Transcriptor de Charlas para multiples agentes.
+Transcriptor de Charlas para multiples agentes. [<img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" />](https://colab.research.google.com/github/SetHet/TranscriptorCharlas/blob/main/TranscriptorCharlas_v10.ipynb)
 
 Este proyecto se basa en este Google Colab [transcripts with speaker names](https://colab.research.google.com/drive/1V-Bt5Hm2kjaDb4P1RyMSswsDKyrzc2-3?usp=sharing#scrollTo=O0_tup8RAyBy). Realize mejoras para mejorar la precision y generar archivos de texto. Dividi el archivo entrante de audio y lo procese en fragmentos para corregir un error de transcripcion que afectaba a audios demaciado extensos.
 
